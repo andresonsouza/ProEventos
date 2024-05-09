@@ -7,11 +7,11 @@ This is all of the files for our Course about Angular, WebAPI and More
 The Summary is:
 
 01. Introdução ao Curso
-02. NET Core 5
-03. EF Core 5 - Introdução
+02. NET Core 8
+03. EF Core 8 - Introdução
 04. Angular - Introdução
 05. Angular - Interpolação, Diretivas e Binding
-06. .NET 5 - Múltiplas Camadas
+06. .NET 8 - Múltiplas Camadas
 07. Angular - Organizar, Rota, Alertas e Mais
 08. Angular - Reactive Forms e Novo Layout
 09. DTOs & Data Annotations
@@ -31,7 +31,7 @@ If you want to see this link course, really in action [original site](https://ww
 ## Basic Setup
 
 1. [Install Node.js](https://nodejs.org/)
-1. [Install .NET Core 5](https://dotnet.microsoft.com/download/)
+1. [Install .NET Core 8](https://dotnet.microsoft.com/download/)
 2. Fork the [ProEventos](https://github.com/vsandrade/ProEventos/fork)
 3. Clone the repo you just forked.
 
