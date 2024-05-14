@@ -24,7 +24,7 @@ The Summary is:
 16. Palestrantes e Redes Sociais - Backend
 17. Palestrantes e Redes Sociais - Frontend
 18. Palestrantes e Eventos (2022)
-19. Docker + MySQL (2022)  
+19. Docker + MySQL (2022)
 
 If you want to see this link course, really in action [original site](https://www.programadamente.com).
 
